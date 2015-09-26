@@ -21,14 +21,14 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "dom-to-string": "^1.0.0",
+    "dom-to-string": "1.0.0",
     "htmltree": "0.0.4",
-    "is-dom": "^1.0.5",
-    "virtual-dom": "^2.0.1",
-    "virtual-html": "^1.2.0"
+    "is-dom": "1.0.5",
+    "virtual-dom": "2.1.1",
+    "virtual-html": "1.3.0"
   },
   "devDependencies": {
-    "domify": "^1.3.2",
-    "prova": "^1.14.0"
+    "domify": "1.4.0",
+    "prova": "1.16.2"
   }
 }
