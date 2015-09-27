@@ -29,6 +29,6 @@
   },
   "devDependencies": {
     "domify": "^1.3.2",
-    "prova": "^1.14.0"
+    "prova": "2.1.2"
   }
 }
