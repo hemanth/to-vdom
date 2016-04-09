@@ -1,6 +1,6 @@
 {
   "name": "to-vdom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert given HTML/DOM into Virtual DOM object",
   "main": "index.js",
   "scripts": {
