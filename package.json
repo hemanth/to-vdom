@@ -23,7 +23,7 @@
   "dependencies": {
     "dom-to-string": "^1.0.1",
     "htmltree": "0.0.4",
-    "is-dom": "^1.0.5",
+    "is-dom": "^1.0.7",
     "virtual-dom": "^2.1.1",
     "virtual-html": "^2.0.0"
   },
